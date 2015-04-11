@@ -23,14 +23,16 @@ There are packages ready for igraph on Windows. igraph requires another package,
 2. Also download the [igraph package](http://www.lfd.uci.edu/~gohlke/pythonlibs/#python-igraph).
 3. Open the “Anaconda Command Prompt” application (you find it in the windows application list by searching for “anaconda”)
 4. Enter the following commands. The package names should match your version of the package, but it is usually enough to enter the first part of the file and press the Tab button to automatically complete the file name.
+
         pip install pycairo<version>.whl
         pip install python_igraph<version>.whl
 
 #### 3. Install tcflib and tcfnetworks
 
-1. In the “Anaconda Command Prompt,” print the following commands:
-        pip install tcflib
-        pip install tcfnetworks
+In the “Anaconda Command Prompt,” print the following commands:
+
+    pip install tcflib
+    pip install tcfnetworks
 
 ### On MacOS and Linux
 
